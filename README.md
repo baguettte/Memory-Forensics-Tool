@@ -35,4 +35,7 @@ https://www.linkedin.com/in/mahmoud-abdalhamed-298540222/
 Use your own API keys for VirusTotal and EchoTrail   ## they are free ##
 
 
+VirusTotal API in lines 461 & 563 
+
+EchoTrail API in line 664
 
