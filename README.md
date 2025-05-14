@@ -62,4 +62,6 @@ INSTALL
 
 
 
+### Dont forget to check the HELP menu ###
+
 
