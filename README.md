@@ -61,7 +61,7 @@ EchoTrail API in line 664
 
 
 
-This tool fully developed by Mahmoud Abdalhamed.
+This tool developed by Mahmoud Abdalhamed.
 
 LinkedIn: 
 https://www.linkedin.com/in/mahmoud-abdalhamed-298540222/
