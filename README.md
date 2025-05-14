@@ -43,7 +43,7 @@ EchoTrail API in line 664
 
 
 
-INSTALL 
+### INSTALL ###
 
 1- Go to the Releases Page
 
