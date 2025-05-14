@@ -39,3 +39,27 @@ VirusTotal API in lines 461 & 563
 
 EchoTrail API in line 664
 
+
+
+
+
+INSTALL 
+
+1- Go to the Releases Page
+
+2- Download the Latest ZIP File (Baguette.zip)
+
+3- Extract the ZIP File
+
+4- Open the folder where you extracted the tool
+
+5- In the folder window, type cmd in the address bar and press Enter
+(This opens CMD directly in that directory)
+
+6- Type  python Memory-Forensics-Tool.py
+
+
+
+
+
+
